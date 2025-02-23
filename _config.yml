@@ -1,23 +1,23 @@
 姓名：天上人间
 url：https：//xiaohang007.github.io/：//xiaohang007.github.io/
 
-排除：[排除：[ bibble，readme.md，makefile，screenshot.png ]，readme.md，makefile，screenshot.png ]
+排除：[排除：[bibble，readme.md，makefile，screenshot.png] ，readme.md，makefile，screenshot.png] [排除：[ bibble，readme.md，makefile，screenshot.png ]，readme.md，makefile，screenshot.png ]
 
 ＃用 py
 荧光笔：荧光笔：碎屑
 
 ＃博客文章的路径结构。
-永久链接：永久链接：/博客/：年：月份/：日：日：日：
+：永久链接：/博客/：年：月份/：日：日：日：日：日：
 编码：编码：UTF-8
 ＃“人”页面上的部分。
 角色：
-  -钥匙：钥匙：教师：教师：教师：教师：教师：教师
+  -钥匙：钥匙：教师：教师：教师：教师：教师：教师：教师：教师
     名称：名称：教师教师
-  -钥匙：钥匙：毕业：毕业：毕业：毕业：毕业：毕业
+  -钥匙：钥匙：毕业：毕业：毕业：毕业：毕业：毕业：毕业：毕业
     名称：姓名：研究生研究生
   -钥匙： - 钥匙：乌格拉德
     名称：姓名：本科生本科生
-  -钥匙：密钥：合作：合作：合作：合作：合作：合作
+  -钥匙：密钥：合作：合作：合作：合作：合作：合作：合作：合作
     名称：名称：合作者合作者
 
 
@@ -25,7 +25,7 @@ url：https：//xiaohang007.github.io/：//xiaohang007.github.io/
 Front_page_news：8
 
 ＃链接的基本路径名。
-根据：''
+根据：''''
 
 ＃为 _projects文件夹制作页面
 收藏：
@@ -34,9 +34,9 @@ Front_page_news：8
 
 ＃导航栏链接。
 导航：
-  - 标题：主页主页44444
+  -   - 标题：主页主页44444
     关联： /
-  - 标题：研究44444
+  -   标题：研究44444
     链接： /research.html
-  - 标题：论文出版物44444
+  -   - 标题：论文出版物44444
     链接： /publications.html
